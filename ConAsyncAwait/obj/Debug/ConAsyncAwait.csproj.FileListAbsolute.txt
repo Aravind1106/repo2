@@ -1,0 +1,8 @@
+C:\Users\AA69925\Desktop\Dotnet Practice\ConAsyncAwait\ConAsyncAwait\bin\Debug\ConAsyncAwait.pdb
+C:\Users\AA69925\Desktop\Dotnet Practice\ConAsyncAwait\ConAsyncAwait\obj\Debug\ConAsyncAwait.csproj.AssemblyReference.cache
+C:\Users\AA69925\Desktop\Dotnet Practice\ConAsyncAwait\ConAsyncAwait\obj\Debug\ConAsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\AA69925\Desktop\Dotnet Practice\ConAsyncAwait\ConAsyncAwait\obj\Debug\ConAsyncAwait.pdb
+C:\Users\AA69925\Desktop\Dotnet Practice\ConAsyncAwait\ConAsyncAwait\bin\Debug\ConAsyncAwait.exe.config
+C:\Users\AA69925\Desktop\Dotnet Practice\ConAsyncAwait\ConAsyncAwait\bin\Debug\ConAsyncAwait.exe
+C:\Users\AA69925\Desktop\Dotnet Practice\ConAsyncAwait\ConAsyncAwait\obj\Debug\ConAsyncAwait.csproj.SuggestedBindingRedirects.cache
+C:\Users\AA69925\Desktop\Dotnet Practice\ConAsyncAwait\ConAsyncAwait\obj\Debug\ConAsyncAwait.exe
